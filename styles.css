@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    font-size: 200px;
+    background-color: #196F3D;
+    font-family: 'Courier New',monospace;
+    font-weight: 900;
+    color: #AF601A;
+}
+
+h1.amumu-title {
+    background-color: #196F3D;
+    color: white;
+}
+
+h1.nautilus-title {
+    background-color: #CD6155;
+    color: white;
+}
+
+h1.vi-title {
+    background-color: #DE3163;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+li {
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: black;
+}
+
+#amumu {
+    background-color:#52F55E;
+}
+
+#vi {
+    background-color: #DE3163;
+}
+
+#nautilus {
+    background-color: #CD6155;
+}
